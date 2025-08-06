@@ -1,5 +1,5 @@
 ## 💜Olá! Eu sou a Beatrice Fischer!
-- 🔬 Biomédica pós graduanda em hematologia 
+- 🔬 Biomédica especialista em hematologia 
 - 👾 Estudo programação para algum dia ser bioinformata 
 
 <div style="display: inline_block"><br>
