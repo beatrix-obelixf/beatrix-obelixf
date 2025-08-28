@@ -1,6 +1,6 @@
 ## 💜Olá! Eu sou a Beatrice Fischer!
 - 🔬 Biomédica especialista em hematologia 
-- 👾 Estudo programação para algum dia ser bioinformata 
+- 👾 Graduanda em Engenharia de Software (1/8) 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bea-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,8 +19,8 @@
   
   ##
   
-![](https://github-readme-stats.vercel.app/api?username=beatrix-obelixf&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=beatrix-obelixf&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=beatrice-fischer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=beatrice-fischerf&theme=dark&hide_border=false)<br/>
   
   ##
- [![](https://visitcount.itsvg.in/api?id=beatrix-obelixf&icon=3&color=6)](https://visitcount.itsvg.in)
+ [![](https://visitcount.itsvg.in/api?id=beatrice-fischer&icon=3&color=6)](https://visitcount.itsvg.in)
